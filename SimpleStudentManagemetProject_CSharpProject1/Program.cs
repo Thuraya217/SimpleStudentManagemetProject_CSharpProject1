@@ -24,6 +24,7 @@ namespace SimpleStudentManagemetProject_CSharpProject1
             }
         }
 
+
         static void Main(string[] args)
         {
             while (true)
